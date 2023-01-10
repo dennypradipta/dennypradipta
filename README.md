@@ -1,5 +1,13 @@
 # Hello, I'm Denny Pradipta! 👋
 
-I am currently a Junior Software Engineer at [Hyperjump Technologies](https://github.com/hyperjumptech).
+Currently working in [Hyperjump Technologies](https://github.com/hyperjumptech).
+
+Tech Stack:
+- NodeJS
+- JavaScript
+- TypeScript
+- React
+- MongoDB
+- PostgreSQL
 
 [![dennypradipta's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennypradipta)](https://github.com/anuraghazra/github-readme-stats)
